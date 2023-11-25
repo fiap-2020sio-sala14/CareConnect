@@ -3,6 +3,8 @@
 CareConnect
 
 É necessário instalar as dependencias antes de ser possivel rodar o codigo. para instalar basta usar "flutter pub upgrade"
+
+
 Aplicativo foi criado usando Flutter e Dart.
 Tem conexão com o ChatGPT usando da OPENAI API em conexão direta com o servidor.
 Foram usados pacotes flutter de:
