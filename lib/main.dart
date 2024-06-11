@@ -185,7 +185,7 @@ class OpenAiService {
     });
 
     try {
-      const apiKey = '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';
+      const apiKey = 'xxxxxxxxxxxxxx';
       const endpoint = "https://api.openai.com/v1/chat/completions";
 
       final res = await http.post(
